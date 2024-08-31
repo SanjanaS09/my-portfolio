@@ -1,0 +1,22 @@
+[
+    {
+      "title": "vAIdya",
+      "description": "The idea centers around developing and implementing a comprehensive health analysis app called 'vAIdyah.' This app leverages the power of artificial intelligence and medical expertise to offer users personalized health analyses based on their historical medical data and current health conditions.",
+      "url": "#"
+    },
+    {
+      "title": "K-Means Clustering",
+      "description": "K Means Clustering is an Unsupervised Machine Learning Algorithm that groups unlabeled, unclassified datasets into different clusters. The machine organizes unsorted data according to parallels or similar patterns and variations.",
+      "url": "#"
+    },
+    {
+      "title": "Spam News Detection",
+      "description": "Spam news detection and classification have become critical in today's digital era, where misinformation and fake news spread rapidly. This report demonstrates the process of detecting and classifying spam news using machine learning techniques.",
+      "url": "#"
+    },
+    {
+      "title": "WiseBudget",
+      "description": "WiseBudget is a student financial website designed to empower users with tools and resources for effective budgeting and financial management.",
+      "url": "https://github.com/SanjanaS09/Spaceprint-Hackathon-Gigabytes"
+    }
+  ]
